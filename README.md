@@ -10,8 +10,8 @@ To give a quick overview of your product to customers, a landing page is a most 
 <img src="https://i.postimg.cc/hjGDKr7N/5.png" alt="Anarc Watch">
 <img src="https://i.postimg.cc/j5ks27H2/6.png" alt="Anarc Watch">
 <img src="https://i.postimg.cc/MHMzQp5D/7.png" alt="Anarc Watch">
-<img src="" alt="Anarc Watch">
-<img src="" alt="Anarc Watch">
+<img src="https://i.postimg.cc/KvTZc4Rc/8.png" alt="Anarc Watch">
+<img src="https://i.postimg.cc/wBgxGHxq/9.png" alt="Anarc Watch">
 
 
 ## Demo & Download 
