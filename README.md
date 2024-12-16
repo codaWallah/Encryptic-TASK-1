@@ -7,7 +7,7 @@ To give a quick overview of your product to customers, a landing page is a most 
 
 ## Demo & Download 
 
-You can visit our website to download this theme <a href="tel:9508913641">Download Now</a>
+You can visit our website to download this theme <a href="mailto:anashmohd611@gmail.com">Download Now</a>
 
 ### Check out my Projects.
 Checkout my website <a href="https://ciphermystic.me/">CoderAnash</a>.
